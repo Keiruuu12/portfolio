@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background: rgb(24,170,150);
+  background: linear-gradient(90deg, rgba(24,170,150,1) 7%, rgba(18,130,143,1) 27%, rgba(18,130,143,1) 75%, rgba(24,170,150,1) 94%);
+  color: white;
+  font-family: 'outfit'
+}
